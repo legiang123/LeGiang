@@ -1,0 +1,35 @@
+.news{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 1200px;
+    text-align: center;
+  }
+  .news h2{
+    margin: 0 auto;
+    color: #493eff;
+    padding: 15px 15px;
+    font-size: 26px;
+  }
+  .news .new{
+    text-align: left;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin-left:15px;
+    margin-bottom: 1px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .news .new img{
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #ccc;
+  }
+  
+  .news .new p{
+    color: #555;
+    word-spacing: 2px;
+    line-height: 22px;
+    padding-left: 5px;
+  }
